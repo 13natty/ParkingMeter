@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parking Meter</string>
+    <string name="hint_amount_received">Amount Received</string>
+    <string name="hint_amount_to_be_deducted">Amount to be deducted</string>
+    <string name="instructions">Enter Amount Received and Amount to be deducted then click on calculate change.</string>
+    <string name="button_calculate">Calculate Change</string>
+</resources>
